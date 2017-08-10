@@ -1,4 +1,4 @@
-# Translatr
+#Translatr
 
 
 A __free__, __key-less__ Google Translate library implenting the same servers as the [translate.google.com](https://translate.google.com/).
@@ -40,8 +40,6 @@ Though defaults for source and target are set to "auto" and "en", respectively, 
 (translate "Hello")
 => "Bonjour"
 ```
-
-[**Back To Top ⇧**](#Translatr)
 
 ## License
 
