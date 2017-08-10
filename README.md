@@ -18,8 +18,8 @@ Translatr exposes a `translate` multi-arity function which takes either a query 
 (translate "Hola")
 => "Hello"
 
-(translate "Hello" {:source "en" :target "ja"})
-=> "こんにちは"
+(translate "Hello" {:source "en" :target "da"})
+=> "Hej"
 ```
 #### \*\*Important\*\*
 
