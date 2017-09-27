@@ -1,6 +1,6 @@
-(defproject translatr "0.1.0"
-  :description "A free, key-less Google Translate API implementation"
-  :url "http://example.com/FIXME"
+(defproject translatr "0.1.1"
+  :description "A free, key-less implementation of the Google Translate API allowing translation between different languages."
+  :url "https://github.com/jeko2000/translatr"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
